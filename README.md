@@ -1,5 +1,7 @@
 # Student-Success-EDA-ML
 
+![image](academicsucess.jpg)
+
 This repository contains data and code related to the exploration and prediction of student success in math and Portuguese language courses in secondary school. The data used in this project were obtained from a survey of students in these courses and contain various social, gender, and study-related information about the students.
 
 ## Data Source
