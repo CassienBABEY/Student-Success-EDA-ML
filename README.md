@@ -26,11 +26,15 @@ The `models` directory contains the saved machine learning models after training
 
 - `How-to-predict-success-in-both-exams?-ML.ipynb`: This Jupyter Notebook presents the machine learning model for predicting student success in both exams based on various features.
 
+- `student-sucess-an-eda-ml-notebook.ipynb`: A general report of the EDA and the ML process.
+
 ## HTML Report
 
 - `Exploratory-Data-Analysis-of-Student-Success.html`: This is an HTML version of the exploratory data analysis report. It contains interactive visualizations and insights from the data analysis.
 
 - `How-to-predict-success-in-both-exams_-ML.html`: This is an HTML version of the Machine Learning Process.
+
+- `student-sucess-an-eda-ml-notebook.html`: This is an HTML version of the general report.
 
 ## Python Scripts
 
@@ -63,11 +67,12 @@ You can install the required libraries using pip:
 2. Install the required libraries (as mentioned above).
 3. Open Jupyter Notebook in the repository directory.
 4. Run the notebooks in the following order:
-   - `EDA_Sandbox.ipynb`
+   - `student-sucess-an-eda-ml-notebook.ipynb`
    - `Exploratory-Data-Analysis-of-Student-Success.ipynb`
    - `How-to-predict-success-in-both-exams-ML.ipynb`
+   - `EDA_Sandbox.ipynb`
 
-You can also explore the HTML report files, which provide a report of the data analysis.
+You can also explore the HTML report files, which provide a report of the Data Analysis and the Machine Learning Process.
 
 ## How to Run Python Scripts
 
